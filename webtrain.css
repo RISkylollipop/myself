@@ -1,0 +1,16 @@
+.main {
+  font-size: 25px;
+  padding: 20px; }
+  .main p {
+    color: red;
+    text-align: center; }
+  .main body {
+    background-color: blue; }
+  .main ol {
+    color: red;
+    background-color: blue; }
+  .main ul {
+    color: green;
+    background-color: white; }
+
+/*# sourceMappingURL=webtrain.css.map */

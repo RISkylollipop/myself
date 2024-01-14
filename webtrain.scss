@@ -1,0 +1,22 @@
+$color: red;
+$bg: blue;
+$col2: green;
+.main{
+    font-size: 25px;
+    padding: 20px;
+    p{
+        color: $color;
+        text-align: center;
+    }
+    body{
+        background-color: $bg;
+    }
+    ol{
+        color: $color;
+        background-color: $bg;
+    }
+    ul{
+        color: $col2;
+        background-color: white;
+    }
+}
